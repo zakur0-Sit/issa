@@ -1,0 +1,18 @@
+[
+    {
+        "vin": "VIN1234",
+        "make": "Toyota",
+        "model": "Corolla",
+        "location": "Latitude: 47.158930, Longitude: 27.600181",
+        "available": true,
+        "status_code": 0
+    },
+    {
+        "vin": "VIN5678",
+        "make": "Ford",
+        "model": "Focus",
+        "location": "Latitude: 47.189807, Longitude: 27.559525",
+        "available": true,
+        "status_code": 0
+    }
+]

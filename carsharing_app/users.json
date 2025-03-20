@@ -1,0 +1,44 @@
+[
+    {
+        "user_id": "client_01",
+        "name": "John Doe",
+        "email": "john@example.com",
+        "password": "password123"
+    },
+    {
+        "user_id": "client_02",
+        "name": "Alice Smith",
+        "email": "alice@example.com",
+        "password": "password456"
+    },
+    {
+        "user_id": "admin_01",
+        "name": "Admin",
+        "email": "admin@example.com",
+        "password": "admin123"
+    },
+    {
+        "user_id": 4,
+        "name": "ew",
+        "email": "ewq",
+        "password": "qwq"
+    },
+    {
+        "user_id": 5,
+        "name": "wq",
+        "email": "wqq",
+        "password": "qwq"
+    },
+    {
+        "user_id": 6,
+        "name": "ew",
+        "email": "w",
+        "password": "qwq"
+    },
+    {
+        "user_id": 7,
+        "name": "eu",
+        "email": "iarasieu",
+        "password": "1234"
+    }
+]
